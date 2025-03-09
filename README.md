@@ -62,6 +62,3 @@ This repository contains C++ implementations of various **numerical methods** us
 ## 📜 **License**
 This repository is licensed under the **MIT License**. You are free to modify and use the code for educational and research purposes.
 
-## 📧 **Contact**
-For any issues or contributions, feel free to open an **Issue** or create a **Pull Request**. Happy coding! 🚀
-
